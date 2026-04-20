@@ -35,6 +35,21 @@
 
 ## 三、 数据展示（表格与代码）
 
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 8px 12px;
+  text-align: left;
+}
+table th {
+  background-color: #f5f5f5;
+}
+</style>
+
 我们可以很方便地插入数据对比表格：
 
 | 药材名称 | 主要功效 | 采收季节 | 储藏方法 |
@@ -43,21 +58,11 @@
 | **枸杞子** | 滋补肝肾，益精明目 | 夏秋两季 | 避光，防潮防蛀 |
 | **黄芪** | 补气升阳，固表止汗 | 春秋两季 | 通风干燥处 |
 
-如果你需要展示代码或者专有名词，可以使用行内代码 `Panax ginseng`，或者多行代码块：
-
-```javascript
-// 这是一个模拟中药检索的代码块
-function searchHerb(name) {
-    if (name === "人参") {
-        return "大补元气";
-    }
-}
-```
-
 <iframe 
-  src="https://player.bilibili.com/player.html?bvid=BV1ua4y1Y7WB&autoplay=0&danmaku=0&high_quality=1&as_wide=1"
+  src="https://www.bilibili.com/blackboard/html5mobileplayer.html?bvid=BV1ua4y1Y7WB&autoplay=0&danmaku=0&high_quality=1&as_wide=1"
   width="100%" 
   height="500" 
   frameborder="0" 
-  allowfullscreen="true">
+  allowfullscreen="true"
+  sandbox="allow-same-origin allow-scripts">
 </iframe>
