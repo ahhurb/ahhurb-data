@@ -55,10 +55,9 @@ function searchHerb(name) {
 ```
 
 <iframe 
-  src="//player.bilibili.com/player.html?bvid=BV1ua4y1Y7WB&autoplay=0&danmaku=0"
+  src="https://player.bilibili.com/player.html?bvid=BV1ua4y1Y7WB&autoplay=0&danmaku=0&high_quality=1&as_wide=1"
   width="100%" 
-  height="500"
-  scrolling="no"
-  frameborder="0"
-  allowfullscreen>
+  height="500" 
+  frameborder="0" 
+  allowfullscreen="true">
 </iframe>
