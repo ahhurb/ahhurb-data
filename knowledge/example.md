@@ -54,6 +54,11 @@ function searchHerb(name) {
 }
 ```
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1ua4y1Y7WB" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" poster="true" autoplay="false" danmaku="false"></iframe>
-
-<iframe src="https://www.baidu.com/search?q=https://player.bilibili.com/player.html%3Fbvid%3DBV1ua4y1Y7WB%26page%3D1%26danmaku%3D0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-same-origin allow-scripts" style="width: 100%; height: 400px; border-radius: 8px; margin-top: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"> </iframe>
+<iframe 
+  src="//player.bilibili.com/player.html?bvid=BV1ua4y1Y7WB&autoplay=0&danmaku=0"
+  width="100%" 
+  height="500"
+  scrolling="no"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
