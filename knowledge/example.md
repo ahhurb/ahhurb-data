@@ -59,7 +59,7 @@ table th {
 | **黄芪** | 补气升阳，固表止汗 | 春秋两季 | 通风干燥处 |
 
 
-<img src="https://github.com/ahhurb/ahhurb-data/blob/main/image/test1.jpg" alt="图片注释" style="width:100%; max-width:600px; height:auto;">
+<img src="https://images.pexels.com/photos/34948665/pexels-photo-34948665.jpeg?_gl=1*245dj*_ga*OTUxMDk1NjcuMTc3NjYwNjg5OA..*_ga_8JE65Q40S6*czE3NzY2NjM4NzIkbzIkZzEkdDE3NzY2NjM5MDMkajI5JGwwJGgw" alt="图片注释" style="width:100%; max-width:600px; height:auto;">
 
 
 <iframe 
