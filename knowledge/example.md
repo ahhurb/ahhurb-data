@@ -69,8 +69,7 @@ img {
 }
 </style>
 
-![中草药示例图片](https://images.pexels.com/photos/34948665/pexels-photo-34948665.jpeg)
-*中草药示例图片（鼠标悬浮可看到的说明）*
+!(https://images.pexels.com/photos/34948665/pexels-photo-34948665.jpeg)d
 
 
 <iframe 
