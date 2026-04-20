@@ -58,6 +58,10 @@ table th {
 | **枸杞子** | 滋补肝肾，益精明目 | 夏秋两季 | 避光，防潮防蛀 |
 | **黄芪** | 补气升阳，固表止汗 | 春秋两季 | 通风干燥处 |
 
+
+<img src="https://github.com/ahhurb/ahhurb-data/blob/main/image/test1.jpg" alt="图片注释" style="width:100%; max-width:600px; height:auto;">
+
+
 <iframe 
   src="https://www.bilibili.com/blackboard/html5mobileplayer.html?bvid=BV1ua4y1Y7WB&autoplay=0&danmaku=0&high_quality=1&as_wide=1"
   width="100%" 
