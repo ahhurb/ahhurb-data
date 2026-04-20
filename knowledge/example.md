@@ -69,7 +69,7 @@ img {
 }
 </style>
 
-![图片名称](https://images.pexels.com/photos/34948665/pexels-photo-34948665.jpeg)d
+![图片名称](https://images.pexels.com/photos/34948665/pexels-photo-34948665.jpeg)
 
 
 <iframe 
