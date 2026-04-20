@@ -1,29 +1,3 @@
-<style>
-img {
-  width: 100%;
-  max-width: 600px;
-  height: auto;
-  display: block;
-  margin: 10px auto;
-}
-</style>
-
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-table th, table td {
-  border: 1px solid #ddd;
-  padding: 8px 12px;
-  text-align: left;
-}
-table th {
-  background-color: #f5f5f5;
-}
-</style>
-
-
 # 🌿 徽乡药萃：中草药科普测试文档
 
 > 💡 **导读**：本文档旨在展示 `marked.js` 在徽乡药萃网站上的所有排版渲染效果。包含基础文本、高级样式、多媒体插入等功能。
@@ -61,6 +35,21 @@ table th {
 
 ## 三、 数据展示（表格与代码）
 
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 8px 12px;
+  text-align: left;
+}
+table th {
+  background-color: #f5f5f5;
+}
+</style>
+
 我们可以很方便地插入数据对比表格：
 
 | 药材名称 | 主要功效 | 采收季节 | 储藏方法 |
@@ -69,6 +58,16 @@ table th {
 | **枸杞子** | 滋补肝肾，益精明目 | 夏秋两季 | 避光，防潮防蛀 |
 | **黄芪** | 补气升阳，固表止汗 | 春秋两季 | 通风干燥处 |
 
+
+<style>
+img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+}
+</style>
 
 ![图片名称](https://images.pexels.com/photos/34948665/pexels-photo-34948665.jpeg)
 
