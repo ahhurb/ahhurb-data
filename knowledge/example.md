@@ -54,4 +54,4 @@ function searchHerb(name) {
 }
 ```
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1ua4y1Y7WB" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" poster="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1ua4y1Y7WB" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" poster="true" autoplay="false" danmaku="false"></iframe>
