@@ -69,7 +69,7 @@ img {
 }
 </style>
 
-!(https://images.pexels.com/photos/34948665/pexels-photo-34948665.jpeg)d
+![](https://images.pexels.com/photos/34948665/pexels-photo-34948665.jpeg)d
 
 
 <iframe 
